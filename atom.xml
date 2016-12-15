@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Insanebulk</title>
- <link href="https://insanebulk.github.io//atom.xml" rel="self"/>
- <link href="https://insanebulk.github.io//"/>
- <updated>2016-12-15T22:07:12+02:00</updated>
- <id>https://insanebulk.github.io/</id>
+ <title>Фарма Обзоры</title>
+ <link href="http://pharma-reviews.ru/atom.xml" rel="self"/>
+ <link href="http://pharma-reviews.ru/"/>
+ <updated>2016-12-15T22:23:00+02:00</updated>
+ <id>http://pharma-reviews.ru</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Иван Демидович</name>
+   <email>marksdfasdfdotto@gmail.com</email>
  </author>
 
  
