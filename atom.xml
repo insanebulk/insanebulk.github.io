@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Фарма Обзоры</title>
- <link href="http://pharma-reviews.ru/atom.xml" rel="self"/>
- <link href="http://pharma-reviews.ru/"/>
- <updated>2016-12-16T15:48:48+02:00</updated>
- <id>http://pharma-reviews.ru</id>
+ <link href="https://insanebulk.github.io/atom.xml" rel="self"/>
+ <link href="https://insanebulk.github.io/"/>
+ <updated>2017-01-15T22:30:18+02:00</updated>
+ <id>https://insanebulk.github.io</id>
  <author>
    <name>Иван Демидович</name>
    <email>marksdfasdfdotto@gmail.com</email>
